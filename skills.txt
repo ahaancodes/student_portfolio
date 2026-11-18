@@ -1,0 +1,6 @@
+My Techical Skills
+1.python
+2.C programming
+3.HTML
+4.GIt and git hub
+5.problem solving
