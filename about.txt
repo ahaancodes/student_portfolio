@@ -1,0 +1,7 @@
+student Portfolio
+
+Name:ahaan singh
+Course: btech cse ai
+College: Shoolini university
+
+im learning git and git hub
