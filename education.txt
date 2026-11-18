@@ -1,0 +1,4 @@
+Eduaction Details
+Course: btech cse
+college:shoolini university
+year:2026
